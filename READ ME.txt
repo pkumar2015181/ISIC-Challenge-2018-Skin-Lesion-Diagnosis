@@ -1,0 +1,12 @@
+#Challenge Site
+https://challenge2018.isic-archive.com/task3/
+
+#Dataset
+https://challenge.isic-archive.com/data#2018
+
+#Final Result
+We got best result in DenseNet-151 with weight decay using Fastai
+Accuracy - 65.2%
+
+#Code
+Run fastdensenet151.ipynb file after full setup(Download dataset, install fastai and other libraries)
